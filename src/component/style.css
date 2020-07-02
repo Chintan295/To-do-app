@@ -1,0 +1,45 @@
+.popup {  
+    position: fixed;  
+    width: 25%;  
+    height: 52%;  
+    top:0px;  
+    left: 0;  
+    right: 0;  
+    bottom: 0;  
+    margin: auto;  
+    background-color:rgba(0,0,0,0.6);
+    color: white;
+  }  
+  .popup\_inner {  
+    position: absolute;  
+    left: 25%;  
+    right: 25%;  
+    top: 25%;  
+    bottom: 25%;  
+    margin: auto;  
+    border-radius: 20px;  
+    color: white;
+  }
+  .popup-heading1
+  {
+    margin-left: 37%;
+  }
+  .popup-heading2{
+      font-size: 18px;
+      
+     
+      
+  }
+  .popup-button1
+  {
+           margin-top: 5px;
+           background-color: rgb(255,255,255);
+  }
+  .size1
+{
+    width: 18rem;
+    
+    border-radius: 10px;
+
+    
+}
